@@ -5,6 +5,12 @@ A collection of my coding solutions and problem-solving practice.
 
 ## LeetCode Topics
 
+### Database
+
+| Number | Problem Name | Difficulty |
+| --- | --- | --- |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](./Database/2356-Number-Of-Unique-Subjects-Taught-By-Each-Teacher.java) | Easy |
+
 ### Hash Table
 
 | Number | Problem Name | Difficulty |
