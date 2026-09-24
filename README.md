@@ -5,6 +5,12 @@ A collection of my coding solutions and problem-solving practice.
 
 ## LeetCode Topics
 
+### Array
+
+| Number | Problem Name | Difficulty |
+| --- | --- | --- |
+| 3996 | [Even Number of Knight Moves](./Arrays/3996-Even-Number-Of-Knight-Moves.java) | Easy |
+
 ### Database
 
 | Number | Problem Name | Difficulty |
